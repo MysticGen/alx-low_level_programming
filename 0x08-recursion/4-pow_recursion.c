@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * _pow_recursion - calculates the value of x raised to the power of y recursively
- * @x: the base integer
- * @y: the exponent integer
- * Return: the result of x raised to the power of y, or -1 if y is negative.
+ * _pow_recursion - pow recursion
+ * @x: integer params
+ * @y: integer paramtr
+ * Return: recursion
  */
 
 
