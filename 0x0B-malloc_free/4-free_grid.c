@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * free_grid - frees a 2 dimensional grid of integers previously allocated with malloc.
+ * free_grid - frees a 2 dimensional grid of integers.
  * @grid: pointer to the grid to be freed.
  * @height: height of the grid.
  *
